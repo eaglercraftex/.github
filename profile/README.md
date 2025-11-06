@@ -1,3 +1,3 @@
 # eaglercraftex
 
-eaglercraftex is a fork of EaglercraftX
+eaglercraftex is a WIP fork of EaglercraftX
